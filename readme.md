@@ -10,11 +10,9 @@ You can also watch the video on Streamable:
 Here’s the video embedded from this repository:
 
 <video width="1280" height="720" controls>
-  <source src="2wol8a.mp4" type="video/mp4">
+  <source src="https://github.com/joker594302831/apex-nospread/raw/master/2wol8a.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 Or you can download the video directly from the repository:
 [Download 2wol8a.mp4](https://github.com/joker594302831/apex-nospread/blob/master/2wol8a.mp4)
-
-https://cdn-cf-east.streamable.com/video/mp4/2wol8a.mp4
