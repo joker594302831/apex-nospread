@@ -16,3 +16,5 @@ Here’s the video embedded from this repository:
 
 Or you can download the video directly from the repository:
 [Download 2wol8a.mp4](https://github.com/joker594302831/apex-nospread/blob/master/2wol8a.mp4)
+
+https://cdn-cf-east.streamable.com/video/mp4/2wol8a.mp4
