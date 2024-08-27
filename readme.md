@@ -1,21 +1,18 @@
-### info
+### Info
 
 I successfully implemented the feature shown in the video, the Apex no-spread function. I'll share it with the right person. If you think that's you, you can contact me at 594302831@qq.com.
 
+You can also watch the video on Streamable:
+[Watch the video on Streamable](https://streamable.com/2wol8a)
 
+### Video
 
-https://streamable.com/2wol8a
-
-video:
+Here’s the video embedded from this repository:
 
 <video width="1280" height="720" controls>
   <source src="2wol8a.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-https://github.com/joker594302831/apex-nospread/blob/master/2wol8a.mp4
-
-
-Earth Heightmap node:
-
-https://user-images.githubusercontent.com/6877923/123006036-64e2e780-d3b7-11eb-922e-018994b32da5.mov
+Or you can download the video directly from the repository:
+[Download 2wol8a.mp4](https://github.com/joker594302831/apex-nospread/blob/master/2wol8a.mp4)
