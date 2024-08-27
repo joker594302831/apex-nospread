@@ -8,7 +8,7 @@ https://streamable.com/2wol8a
 
 video:
 
-<video width="100%" height="100%" controls>
+<video width="1280" height="720" controls>
   <source src="2wol8a.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
